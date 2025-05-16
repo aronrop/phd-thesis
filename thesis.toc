@@ -1,0 +1,74 @@
+\contentsline {chapter}{\numberline {1}History of Ring Expansion Reactions with Non-stabilized Diazoalkanes}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}History of Diazoalkane Ring Expansion Reactions}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Protic Solvent Promoted Reactions}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Lewis-acid Promoted Reactions}{11}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Catalysis of Diazoalkane Ring Expansions}{17}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Conclusion and Outlook}{22}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Development of Sc(III)-Catalyzed Asymmetric Homologation of\\ Cycloalkanones with Non-Stabilized Diazoalkanes}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{24}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Methods for Asymmetric $\alpha $-Functionalization of Cycloalkanones}{28}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Construction of $\alpha $-Tertiary Centers}{28}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Construction of $\alpha $-Quaternary Centers}{33}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Discovery of a Catalyst System for Asymmetric $\alpha $-Arylation}{36}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Optimized Conditions for Consistent Reactivity}{38}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Early Results with Bis(oxazoline) Ligands}{41}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Optimal Conditions for Medium Ring Arylation}{48}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Additional Developments}{59}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Synthesis of a Novel $\pi $-Extended Bis(oxazoline) Ligand}{59}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Development of a Fluorine NMR Titration Protocol}{66}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Conclusion}{71}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Experimental Data}{72}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}General Information}{72}{subsection.2.6.1}%
+\contentsline {subsubsection}{General Procedures}{72}{subsubsection*.16}%
+\contentsline {subsubsection}{Materials}{73}{subsubsection*.17}%
+\contentsline {subsubsection}{Instrumentation}{75}{subsubsection*.18}%
+\contentsline {subsection}{\numberline {2.6.2}Experimental Procedures and Characterization Data}{76}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}NMR Spectral Data}{137}{subsection.2.6.3}%
+\contentsline {chapter}{\numberline {3}Extension of Catalytic Single Carbon Ring Expansion to Complex Molecule Synthesis}{280}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{281}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Diazoalkane Single Carbon Homologation in Complex Molecules}{283}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Model Optimization Studies for Cyclopentanone Ring Expansions}{290}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Application to the Total Synthesis of 5-\textit {epi}-Ilimaquinone}{297}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}First Generation Synthesis}{297}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Second Generation Synthesis}{303}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}An Unexpected 1,5-Hydride Shift}{308}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Conclusion}{312}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Experimental Data}{313}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}General Information}{313}{subsection.3.6.1}%
+\contentsline {subsubsection}{General Procedures}{313}{subsubsection*.198}%
+\contentsline {subsubsection}{Materials}{313}{subsubsection*.199}%
+\contentsline {subsubsection}{Instrumentation}{315}{subsubsection*.200}%
+\contentsline {subsection}{\numberline {3.6.2}Experimental Procedures and Characterization Data}{316}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}NMR Spectral Data}{350}{subsection.3.6.3}%
+\contentsline {chapter}{\numberline {4}Catalysis of Etherification Reactions with sp$^3$ Electrophiles}{429}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{430}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Discovery of a Catalyzed Reaction}{432}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Initial Lewis-Base Screening}{432}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Discovery of Imidazolium Salt Catalyzed Reactions}{433}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Mechanistic Studies}{437}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Preliminary Hypothesis Based on Electrophile Activation}{437}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Second Hypothesis: Carbenes as Br\o nsted Bases}{443}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Loosely Associated Ion-Pair Mechanism}{448}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Transition State Structure Experiments}{452}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Conclusions}{457}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Experimental Data}{459}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}General Information}{459}{subsection.4.6.1}%
+\contentsline {subsubsection}{General Procedures}{459}{subsubsection*.288}%
+\contentsline {subsubsection}{Materials}{459}{subsubsection*.289}%
+\contentsline {subsubsection}{Instrumentation}{460}{subsubsection*.290}%
+\contentsline {subsection}{\numberline {4.6.2}Experimental Procedures and Characterization Data}{462}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}NMR Spectral Data}{473}{subsection.4.6.3}%
+\contentsline {chapter}{\numberline {A}Appendix A: X-Ray Crystallographic Data}{A1}{appendix.A}%
+\contentsline {section}{\numberline {A.1}General Procedure for X-Ray Data Collection}{A2}{section.A.1}%
+\contentsline {section}{\numberline {A.2}X-Ray Data Tables}{A3}{section.A.2}%
+\contentsline {subsection}{\numberline {A.2.1}Structural Data for Ketone \ref {cmp:xaay}}{A3}{subsection.A.2.1}%
+\contentsline {subsection}{\numberline {A.2.2}Structural Data for Ester \ref {cmp:xabb}}{A9}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {A.2.3}Structural Data for Bis(oxazoline) Triflate Salt \ref {cmp:xabf}}{A15}{subsection.A.2.3}%
+\contentsline {subsection}{\numberline {A.2.4}Structural Data for Naproxen Ester \ref {cmp:xlaag}}{A24}{subsection.A.2.4}%
+\contentsline {subsection}{\numberline {A.2.5}Structural Data for \ref {cmp:xlaak} Copper Chloride Complex}{A31}{subsection.A.2.5}%
+\contentsline {subsection}{\numberline {A.2.6}Structural Data for $\beta $-methyl Ketone \ref {cmp:xbat}}{A69}{subsection.A.2.6}%
+\contentsline {subsection}{\numberline {A.2.7}Structural Data for $\alpha $-methyl Ketone \ref {cmp:xbau}}{A76}{subsection.A.2.7}%
+\contentsline {subsection}{\numberline {A.2.8}Structural Data for Imidazolium Salt \ref {cmp:xcad}}{A83}{subsection.A.2.8}%
+\contentsline {subsection}{\numberline {A.2.9}Structural Data for Imidazolium Salt \ref {cmp:xcaf}}{A95}{subsection.A.2.9}%
+\contentsline {subsection}{\numberline {A.2.10}Structural Data for Imidazolium Salt \ref {cmp:xcai}}{A106}{subsection.A.2.10}%
